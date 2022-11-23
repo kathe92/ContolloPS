@@ -1,0 +1,42 @@
+{
+    "nodes": [
+        {
+            "nodeName": "Employees",
+            "parentType": "No parent",
+            "list": {
+                "name": "Employees List",
+                "columns": [
+                    {
+                        "name": "ID",
+                        "type": "Textbox"
+                    },
+                    {
+                        "name": "Full Name",
+                        "type": "Textbox"
+                    },
+                    {
+                        "name": "Age",
+                        "type": "Integer Number"
+                    }
+                ]
+            }
+        },
+        {
+            "nodeName": "Departments",
+            "parentType": "No parent",
+            "list": {
+                "name": "Departments List",
+                "columns": [
+                    {
+                        "name": "Code",
+                        "type": "Textbox"
+                    },
+                    {
+                        "name": "Description",
+                        "type": "Textbox"
+                    }
+                ]
+            }
+        }
+    ]
+}

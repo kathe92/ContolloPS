@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "id": 0,
+            "email": "kathtest@mailinator.com",
+            "password": "Tester17!",
+            "role": "admin"
+        },
+        {
+            "id": 1,
+            "userName": "olonyltest",
+            "email": "olonyltest@mailinator.com",
+            "password": "Tester17!",
+            "role": "viewer"
+        },
+        {
+            "id": 2,
+            "userName": "kathqa",
+            "email": "kathqa@mailinator.com",
+            "password": "Tester17!",
+            "role": "viewer"
+        }
+    ]
+}
