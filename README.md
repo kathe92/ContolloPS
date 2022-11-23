@@ -11,7 +11,9 @@ This repository contains the first test version of cypress tests performed on th
 git clone https://github.com/kathe92/ContolloPS.git
 
 ## Install the node_modules
-npm install
+npm install --save-dev
+
+Note: When running the tests change the name of the nodes in the json file: "nodes" (Folder: Fixture) or delete them if they already exist and you want to use the same names.
 
 ## Run the tests in the console
 npx cypress run
