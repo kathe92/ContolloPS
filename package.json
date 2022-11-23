@@ -1,0 +1,19 @@
+{
+  "name": "contollops",
+  "version": "1.0.0",
+  "description": "This is the firts automation for Contollo PS",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathe92/ContolloPS.git"
+  },
+  "author": "Katherine Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kathe92/ContolloPS/issues"
+  },
+  "homepage": "https://github.com/kathe92/ContolloPS#readme"
+}
